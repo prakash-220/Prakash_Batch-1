@@ -1,1 +1,1 @@
-This is new tex.
+This is new text.
